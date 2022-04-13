@@ -3,7 +3,11 @@
   
 <p align = "center">I'm an Entrepreneur by passion and co-founder of RYM Labs—a Montreal-based IT solutions and consultancy service. I'm also an Experienced full-stack developer as illustrated by the different projects I've worked on. I'm highly interested in <b>machine learning</b>, <b>deep learning</b>, and <b>artificial intelligence</b> in general.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=callimiro&label=Profile%20views&color=2d6a4f&style=flat" alt="callimiro"> </p>
+<div align="center">
+  <img src="https://badges.pufler.dev/visits/callimiro/callimiro?color=2d6a4f">
+  <img src="https://badges.pufler.dev/repos/callimiro?color=2d6a4f">
+  <img src="https://badges.pufler.dev/commits/monthly/callimiro?color=2d6a4f">
+</div>
 
 <img align="right" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400">
 
