@@ -25,8 +25,8 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=callimiro&show_icons=true&theme=gotham"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callimiro&show_icons=true&theme=gotham&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=callimiro&show_icons=true&theme=gotham&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callimiro&show_icons=true&theme=gotham&layout=compact&count_private=true"/>
 </div>
 
 
