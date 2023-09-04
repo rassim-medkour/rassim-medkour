@@ -11,7 +11,7 @@
 
 <img align="right" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400">
 
-- 💬 Ask me about **Back-End, Java, PHP, Spring, Laravel**.
+- 💬 Ask me about **Back-End, Java, PHP, Spring, Laravel, GO**.
 
 - 📫 Reach me by E-mail: **rassimmedkour@gmail.com**.
 
