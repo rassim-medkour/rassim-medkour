@@ -4,9 +4,9 @@
 <p align = "center">I'm an Entrepreneur by passion and co-founder of RYM Labs—a Montreal-based IT solutions and consultancy service. I'm also an Experienced full-stack developer as illustrated by the different projects I've worked on. I'm highly interested in <b>machine learning</b>, <b>deep learning</b>, and <b>artificial intelligence</b> in general.</p>
 
 <div align="center">
-  <img src="https://badges.pufler.dev/visits/callimiro/callimiro?color=2d6a4f">
-  <img src="https://badges.pufler.dev/repos/callimiro?color=2d6a4f">
-  <img src="https://badges.pufler.dev/commits/monthly/callimiro?color=2d6a4f">
+  <img src="https://badges.pufler.dev/visits/rassim-medkour/rassim-medkour?color=2d6a4f">
+  <img src="https://badges.pufler.dev/repos/rassim-medkour?color=2d6a4f">
+  <img src="https://badges.pufler.dev/commits/monthly/rassim-medkour?color=2d6a4f">
 </div>
 
 <img align="right" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400">
@@ -25,13 +25,13 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=callimiro&show_icons=true&theme=gotham&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callimiro&show_icons=true&theme=gotham&layout=compact&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rassim-medkour&show_icons=true&theme=gotham&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rassim-medkour&show_icons=true&theme=gotham&layout=compact&count_private=true"/>
 </div>
 
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 <div align="center">
- <img  src="https://github-profile-trophy.vercel.app/?username=callimiro&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+ <img  src="https://github-profile-trophy.vercel.app/?username=rassim-medkour&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 </div>
 
