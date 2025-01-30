@@ -25,6 +25,7 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <div>
+  <figure><embed src="https://wakatime.com/share/@Callimiro/789d6d7e-3549-4413-a645-c3a365a7b639.svg"></embed></figure>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rassim-medkour&show_icons=true&theme=gotham&count_private=true"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rassim-medkour&show_icons=true&theme=gotham&layout=compact&count_private=true"/>
 </div>
