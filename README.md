@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rassim Medkour</h1>
-<h3 align="center">A Software engineer by trade with over three years of professional experience.</h3>
   
-<p align = "center">I'm an Entrepreneur by passion and co-founder of RYM Labs—a Montreal-based IT solutions and consultancy service. I'm also an Experienced full-stack developer as illustrated by the different projects I've worked on. I'm highly interested in <b>machine learning</b>, <b>deep learning</b>, and <b>artificial intelligence</b> in general.</p>
+<p align = "center"> Software Engineer with 5+ years’ experience designing and delivering full‑stack solutions across web, mobile, and enterprise 
+platforms.
+ • Technical Excellence: Built and optimized scalable applications using Go, Next.js, Laravel, and other technologies; 
+architected and integrated RESTful APIs and microservices to enhance system performance and reliability.
+ • Leadership & Management: Led the digitalization of Ooredoo’s sales process—managing up to 6 engineers (typically 3–4 per 
+engagement), mentoring junior team members, and driving end‑to‑end delivery that resulted in a 50% increase in sales.
+ • Cross‑Functional Communication & Coaching: Collaborated with IT, marketing, and third‑party partners to integrate new APIs 
+and streamline operations; at byFood, guide and review code for junior developers to elevate team code quality and 
+consistency.</p>
 
 <div align="center">
   <img src="https://badges.pufler.dev/visits/rassim-medkour/rassim-medkour?color=2d6a4f">
