@@ -1,45 +1,58 @@
 <h1 align="center">Hi 👋, I'm Rassim Medkour</h1>
-  
-<p align = "center"> Software Engineer with 5+ years’ experience designing and delivering full‑stack solutions across web, mobile, and enterprise 
-platforms.
- • Technical Excellence: Built and optimized scalable applications using Go, Next.js, Laravel, and other technologies; 
-architected and integrated RESTful APIs and microservices to enhance system performance and reliability.
- • Leadership & Management: Led the digitalization of Ooredoo’s sales process—managing up to 6 engineers (typically 3–4 per 
-engagement), mentoring junior team members, and driving end‑to‑end delivery that resulted in a 50% increase in sales.
- • Cross‑Functional Communication & Coaching: Collaborated with IT, marketing, and third‑party partners to integrate new APIs 
-and streamline operations; at byFood, guide and review code for junior developers to elevate team code quality and 
-consistency.</p>
+<h3 align="center">Full-Stack Software Engineer | Go • TypeScript • React • PostgreSQL</h3>
 
-<div align="center">
-  <img src="https://badges.pufler.dev/visits/rassim-medkour/rassim-medkour?color=2d6a4f">
-  <img src="https://badges.pufler.dev/repos/rassim-medkour?color=2d6a4f">
-  <img src="https://badges.pufler.dev/commits/monthly/rassim-medkour?color=2d6a4f">
-</div>
-
-<img align="right" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400">
-
-- 💬 Ask me about **Back-End, Java, PHP, Spring, Laravel, GO**.
-
-- 📫 Reach me by E-mail: **rassimmedkour@gmail.com**.
-
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/rassim-medkour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rassim-medkour" height="30" width="40" /></a>
+<p align="center">
+I build scalable backend systems and full-stack products with a strong focus on clean architecture, reliability, and developer experience.
 </p>
 
-## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-<div>
-  <figure><embed src="https://wakatime.com/share/@Callimiro/789d6d7e-3549-4413-a645-c3a365a7b639.svg"></embed></figure>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rassim-medkour&show_icons=true&theme=gotham&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rassim-medkour&show_icons=true&theme=gotham&layout=compact&count_private=true"/>
-</div>
-
-
-## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 <div align="center">
- <img  src="https://github-profile-trophy.vercel.app/?username=rassim-medkour&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+  <img src="https://komarev.com/ghpvc/?username=rassim-medkour&label=Profile%20views&color=0e75b6&style=flat" alt="rassim-medkour" />
 </div>
 
+---
+
+## 🚀 About Me
+
+- 🧑‍💻 Full-Stack Software Engineer with **5+ years of experience** across web & enterprise platforms.  
+- 🇨🇦 Currently at **INEX (Canada)** — working on a logistics platform using **React + AWS Lambda**, leading a migration to **Fastify + TypeScript + PostgreSQL** with **DDD**.  
+- 🏗️ Previously at **byFood (Japan)** — platform features, API integrations, and performance improvements.  
+- 📈 At **Ooredoo Algeria**, contributed to sales digitalization and helped achieve a **50% increase in sales**.
+
+---
+
+## 🧩 What I'm Working On
+
+### 🏥 Medical Finals Quiz Platform (Personal Project)
+A quiz & exam preparation platform built with:
+- **Go** (backend APIs)
+- **PostgreSQL**
+- **Next.js**
+
+### 📦 INEX Platform Modernization
+- Migrating services to **Fastify + TypeScript + PostgreSQL**
+- Applying **Domain-Driven Design (DDD)**
+- Building cloud-native workflows using **AWS Lambda**
+
+---
+
+## 🛠️ Tech Stack
+**Backend:** Go, Node.js, TypeScript, Fastify, REST APIs, AWS Lambda  
+**Frontend:** React, Next.js  
+**Databases:** PostgreSQL, MySQL, Oracle  
+**Other:** Docker, Git, CI/CD
+
+---
+
+## 📊 GitHub Metrics
+![Metrics](https://github.com/rassim-medkour/rassim-medkour/blob/main/github-metrics.svg)
+
+---
+
+## 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/rassim-medkour" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rassim-medkour" height="30" width="40" />
+</a>
+</p>
+
+📫 Email: **rassimmedkour@gmail.com**
