@@ -44,7 +44,7 @@ A quiz & exam preparation platform built with:
 ---
 
 ## 📊 GitHub Metrics
-![Metrics](https://github.com/rassim-medkour/rassim-medkour/blob/main/github-metrics.svg)
+![Metrics](https://github.com/rassim-medkour/rassim-medkour/blob/main/github-metrics.svg?raw=true)
 
 ---
 
